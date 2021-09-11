@@ -1,0 +1,11 @@
+/* fitxers d'estils */
+* {
+  color: lightblue;
+}
+ul.op_menu {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
